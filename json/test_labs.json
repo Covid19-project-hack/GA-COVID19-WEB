@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Goa Medical College, Goa",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": " North District Hospital, Mapusa",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "3",
+            "name": " Subdistrict Hospital, Ponda",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "4",
+            "name": " South Goa District Hospital Hospicio Hospital , Margao",
+            "type": "Government",
+            "test_type": "TrueNat"
+        },
+        {
+            "sno": "5",
+            "name": " Sub District Hospital, Chicalim, Vasco Da Gama ",
+            "type": "Government",
+            "test_type": "TrueNat"
+        }
+    ]
+}

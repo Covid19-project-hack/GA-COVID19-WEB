@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Medical Helpline",
+            "phone_number": "104"
+        },
+        {
+            "sno": "2",
+            "name": "Medical Helpline (Whatsapp)",
+            "phone_number": "9607909559"
+        },
+        {
+            "sno": "3",
+            "name": "Medicine Supply",
+            "phone_number": "7823026971"
+        }
+    ]
+}

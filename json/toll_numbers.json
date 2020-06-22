@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "district": "State Control Room",
+            "phone_number": "0832-2419550"
+        },
+        {
+            "sno": "2",
+            "district": "North District",
+            "phone_number": "0832-2225083"
+        },
+        {
+            "sno": "3",
+            "district": "South District",
+            "phone_number": "0832-2794108"
+        },
+        {
+            "sno": "4",
+            "district": "Medical Helpline (Whatsapp)",
+            "phone_number": "9607909559"
+        },
+        {
+            "sno": "5",
+            "district": "Medicine Supply",
+            "phone_number": "7823026971"
+        }
+    ]
+}

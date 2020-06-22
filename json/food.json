@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "district": "North District",
+            "phone_number": "9423890077"
+        },
+        {
+            "sno": "2",
+            "district": "South District",
+            "phone_number": "9423890066"
+        }
+    ]
+}
